@@ -73,7 +73,7 @@ npm install
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -122,12 +122,12 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/controllers/pet.md)
-* [Store](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/controllers/store.md)
-* [User](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/controllers/user.md)
+* [Pet](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/controllers/pet.md)
+* [Store](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/controllers/store.md)
+* [User](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/api-response.md)
-* [ApiError](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.1/doc/api-error.md)
+* [ApiResponse](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/api-response.md)
+* [ApiError](https://www.github.com/Subtain-Apimatic/first-TS-repo/tree/3.2.9/doc/api-error.md)
 
